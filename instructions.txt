@@ -1,0 +1,9 @@
+Instrucciones de juego: (luego serán añadidas en la interfaz)
+	- Clásico:
+		- Click izquierdo: revela la celda
+		- Click derecho: pone/quita bandera
+		- Click central (rueda): revela celdas adyacentes (solo si coinciden la cantidad de minas alrededor y la cantidad de banderas colocadas)
+	- En Coche:
+		- Teclado lateral (del 1 al 9 excluyendo el 5): el coche se mueve en dicha dirección y revela la celda. Si antes oprimiste la tecla 5, colocas/quitas una bandera en dicha posición.
+		- Teclado lateral (5):  resalta celdas adyacentes y puedes colocar bandera oprimiendo las teclas del 1 al 9 (excluyendo el 5). Vuelve a oprimir 5 para salir del modo bandera y puedas moverte.
+		- Teclado lateral (0): revela las celdas adyacentes (solo si coinciden la cantidad de minas alrededor y la cantidad de banderas colocadas)
